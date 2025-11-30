@@ -1,6 +1,6 @@
-# Hola, soy Luis Octavio Garello Perez 👋
+# Hola, Octa 👋
 
-### 🎓 Estudiante de Ciencias de la Computación | 💻 Entusiasta del Hardware | 👨‍🏫 Tutor de Programación
+### 🎓 Estudiante de Ciencias de la Computación | 💻 Entusiasta del Hardware y Desarrollo de Software | 👨‍🏫 Tutor de Programación
 
 Soy un estudiante avanzado (4º año) de la **Licenciatura en Ciencias de la Computación** en la **Universidad Nacional de San Juan (FCEFN)**. Me apasiona entender cómo funcionan las cosas desde el bajo nivel hasta el desarrollo web, combinando la lógica de la programación con el soporte técnico de hardware.
 
