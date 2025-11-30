@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Luis%20Octavio%20Garello%20Perez&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Ciencias%20de%20la%20Computación%20@%20UNSJ&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Octavio%20Garello&fontSize=50&animation=fadeIn&fontAlignY=38"/>
 </div>
 
 <div align="center">
