@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="300" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Grafo conexo animado">
   <defs>
     <linearGradient id="bg" x1="0" x2="1">
-      <stop offset="0" stop-color="#071020"/>
+      <stop offset="0" stop-color="#000000"/>
       <stop offset="1" stop-color="#0f3b66"/>
     </linearGradient>
     <linearGradient id="nodeGrad" x1="0" x2="1">
@@ -17,68 +17,51 @@
     </filter>
   </defs>
 
-  <!-- Fondo -->
   <rect width="100%" height="100%" fill="url(#bg)" />
 
-  <!-- Aristas (líneas). Cada línea anima sus endpoints para seguir a los nodos -->
   <g stroke="#9fc5ff" stroke-opacity="0.16" stroke-width="2" fill="none">
-    <!-- línea A-B -->
     <line id="l-ab" x1="120" y1="80" x2="320" y2="60">
       <animate attributeName="x1" dur="6s" values="120;140;160;120" repeatCount="indefinite" />
       <animate attributeName="y1" dur="6s" values="80;60;100;80" repeatCount="indefinite" />
       <animate attributeName="x2" dur="5.2s" begin="0.3s" values="320;300;340;320" repeatCount="indefinite" />
       <animate attributeName="y2" dur="5.2s" begin="0.3s" values="60;80;40;60" repeatCount="indefinite" />
     </line>
-
-    <!-- línea A-C -->
     <line id="l-ac" x1="120" y1="80" x2="220" y2="180">
       <animate attributeName="x1" dur="6s" values="120;140;160;120" repeatCount="indefinite" />
       <animate attributeName="y1" dur="6s" values="80;60;100;80" repeatCount="indefinite" />
       <animate attributeName="x2" dur="4.6s" begin="0.6s" values="220;240;200;220" repeatCount="indefinite" />
       <animate attributeName="y2" dur="4.6s" begin="0.6s" values="180;160;200;180" repeatCount="indefinite" />
     </line>
-
-    <!-- línea B-D -->
     <line id="l-bd" x1="320" y1="60" x2="480" y2="40">
       <animate attributeName="x1" dur="5.2s" begin="0.3s" values="320;300;340;320" repeatCount="indefinite" />
       <animate attributeName="y1" dur="5.2s" begin="0.3s" values="60;80;40;60" repeatCount="indefinite" />
       <animate attributeName="x2" dur="4.8s" begin="0.9s" values="480;500;460;480" repeatCount="indefinite" />
       <animate attributeName="y2" dur="4.8s" begin="0.9s" values="40;20;60;40" repeatCount="indefinite" />
     </line>
-
-    <!-- línea C-E -->
     <line id="l-ce" x1="220" y1="180" x2="420" y2="220">
       <animate attributeName="x1" dur="4.6s" begin="0.6s" values="220;240;200;220" repeatCount="indefinite" />
       <animate attributeName="y1" dur="4.6s" begin="0.6s" values="180;160;200;180" repeatCount="indefinite" />
       <animate attributeName="x2" dur="5.3s" begin="1.1s" values="420;400;440;420" repeatCount="indefinite" />
       <animate attributeName="y2" dur="5.3s" begin="1.1s" values="220;240;200;220" repeatCount="indefinite" />
     </line>
-
-    <!-- línea D-F -->
     <line id="l-df" x1="480" y1="40" x2="540" y2="150">
       <animate attributeName="x1" dur="4.8s" begin="0.9s" values="480;500;460;480" repeatCount="indefinite" />
       <animate attributeName="y1" dur="4.8s" begin="0.9s" values="40;20;60;40" repeatCount="indefinite" />
       <animate attributeName="x2" dur="4.8s" begin="1.6s" values="540;520;560;540" repeatCount="indefinite" />
       <animate attributeName="y2" dur="4.8s" begin="1.6s" values="150;130;170;150" repeatCount="indefinite" />
     </line>
-
-    <!-- línea F-G -->
     <line id="l-fg" x1="540" y1="150" x2="700" y2="100">
       <animate attributeName="x1" dur="4.8s" begin="1.6s" values="540;520;560;540" repeatCount="indefinite" />
       <animate attributeName="y1" dur="4.8s" begin="1.6s" values="150;130;170;150" repeatCount="indefinite" />
       <animate attributeName="x2" dur="5.1s" begin="0.4s" values="700;720;680;700" repeatCount="indefinite" />
       <animate attributeName="y2" dur="5.1s" begin="0.4s" values="100;120;80;100" repeatCount="indefinite" />
     </line>
-
-    <!-- línea G-H -->
     <line id="l-gh" x1="700" y1="100" x2="980" y2="80">
       <animate attributeName="x1" dur="5.1s" begin="0.4s" values="700;720;680;700" repeatCount="indefinite" />
       <animate attributeName="y1" dur="5.1s" begin="0.4s" values="100;120;80;100" repeatCount="indefinite" />
       <animate attributeName="x2" dur="6s" begin="0.2s" values="980;960;1000;980" repeatCount="indefinite" />
       <animate attributeName="y2" dur="6s" begin="0.2s" values="80;60;100;80" repeatCount="indefinite" />
     </line>
-
-    <!-- línea H-I -->
     <line id="l-hi" x1="980" y1="80" x2="1050" y2="210">
       <animate attributeName="x1" dur="6s" begin="0.2s" values="980;960;1000;980" repeatCount="indefinite" />
       <animate attributeName="y1" dur="6s" begin="0.2s" values="80;60;100;80" repeatCount="indefinite" />
@@ -87,120 +70,51 @@
     </line>
   </g>
 
-  <!-- Nodos (círculos) con pulso -->
   <g filter="url(#glow)">
-    <!-- Nodo A -->
     <g>
       <circle id="a" cx="120" cy="80" r="6" fill="url(#nodeGrad)"/>
       <animate xlink:href="#a" attributeName="cx" dur="6s" values="120;140;160;120" repeatCount="indefinite" />
       <animate xlink:href="#a" attributeName="cy" dur="6s" values="80;60;100;80" repeatCount="indefinite" />
-      <circle cx="120" cy="80" r="14" fill="#60a5fa" fill-opacity="0.06">
-        <animate attributeName="r" dur="6s" values="10;18;10;14" repeatCount="indefinite"/>
-        <animate attributeName="opacity" dur="6s" values="0.06;0.02;0.06;0.06" repeatCount="indefinite"/>
-        <animate attributeName="cx" dur="6s" values="120;140;160;120" repeatCount="indefinite" />
-        <animate attributeName="cy" dur="6s" values="80;60;100;80" repeatCount="indefinite" />
-      </circle>
     </g>
-
-    <!-- Nodo B -->
     <g>
       <circle id="b" cx="320" cy="60" r="6" fill="url(#nodeGrad)"/>
       <animate xlink:href="#b" attributeName="cx" dur="5.2s" begin="0.3s" values="320;300;340;320" repeatCount="indefinite" />
       <animate xlink:href="#b" attributeName="cy" dur="5.2s" begin="0.3s" values="60;80;40;60" repeatCount="indefinite" />
-      <circle cx="320" cy="60" r="14" fill="#7c3aed" fill-opacity="0.06">
-        <animate attributeName="r" dur="5.2s" begin="0.3s" values="11;19;11;14" repeatCount="indefinite"/>
-        <animate attributeName="cx" dur="5.2s" begin="0.3s" values="320;300;340;320" repeatCount="indefinite" />
-        <animate attributeName="cy" dur="5.2s" begin="0.3s" values="60;80;40;60" repeatCount="indefinite" />
-      </circle>
     </g>
-
-    <!-- Nodo C -->
     <g>
       <circle id="c" cx="220" cy="180" r="6" fill="url(#nodeGrad)"/>
       <animate xlink:href="#c" attributeName="cx" dur="4.6s" begin="0.6s" values="220;240;200;220" repeatCount="indefinite" />
       <animate xlink:href="#c" attributeName="cy" dur="4.6s" begin="0.6s" values="180;160;200;180" repeatCount="indefinite" />
-      <circle cx="220" cy="180" r="14" fill="#60a5fa" fill-opacity="0.06">
-        <animate attributeName="r" dur="4.6s" begin="0.6s" values="9;16;9;14" repeatCount="indefinite"/>
-        <animate attributeName="cx" dur="4.6s" begin="0.6s" values="220;240;200;220" repeatCount="indefinite" />
-        <animate attributeName="cy" dur="4.6s" begin="0.6s" values="180;160;200;180" repeatCount="indefinite" />
-      </circle>
     </g>
-
-    <!-- Nodo D -->
     <g>
       <circle id="d" cx="480" cy="40" r="6" fill="url(#nodeGrad)"/>
       <animate xlink:href="#d" attributeName="cx" dur="4.8s" begin="0.9s" values="480;500;460;480" repeatCount="indefinite" />
       <animate xlink:href="#d" attributeName="cy" dur="4.8s" begin="0.9s" values="40;20;60;40" repeatCount="indefinite" />
-      <circle cx="480" cy="40" r="14" fill="#7c3aed" fill-opacity="0.06">
-        <animate attributeName="r" dur="4.8s" begin="0.9s" values="10;17;10;14" repeatCount="indefinite"/>
-        <animate attributeName="cx" dur="4.8s" begin="0.9s" values="480;500;460;480" repeatCount="indefinite" />
-        <animate attributeName="cy" dur="4.8s" begin="0.9s" values="40;20;60;40" repeatCount="indefinite" />
-      </circle>
     </g>
-
-    <!-- Nodo E -->
     <g>
       <circle id="e" cx="420" cy="220" r="6" fill="url(#nodeGrad)"/>
       <animate xlink:href="#e" attributeName="cx" dur="5.3s" begin="1.1s" values="420;400;440;420" repeatCount="indefinite" />
       <animate xlink:href="#e" attributeName="cy" dur="5.3s" begin="1.1s" values="220;240;200;220" repeatCount="indefinite" />
-      <circle cx="420" cy="220" r="14" fill="#60a5fa" fill-opacity="0.06">
-        <animate attributeName="r" dur="5.3s" begin="1.1s" values="10;18;10;14" repeatCount="indefinite"/>
-        <animate attributeName="cx" dur="5.3s" begin="1.1s" values="420;400;440;420" repeatCount="indefinite" />
-        <animate attributeName="cy" dur="5.3s" begin="1.1s" values="220;240;200;220" repeatCount="indefinite" />
-      </circle>
     </g>
-
-    <!-- Nodo F -->
     <g>
       <circle id="f" cx="540" cy="150" r="6" fill="url(#nodeGrad)"/>
       <animate xlink:href="#f" attributeName="cx" dur="4.8s" begin="1.6s" values="540;520;560;540" repeatCount="indefinite" />
       <animate xlink:href="#f" attributeName="cy" dur="4.8s" begin="1.6s" values="150;130;170;150" repeatCount="indefinite" />
-      <circle cx="540" cy="150" r="14" fill="#7c3aed" fill-opacity="0.06">
-        <animate attributeName="r" dur="4.8s" begin="1.6s" values="11;18;11;14" repeatCount="indefinite"/>
-        <animate attributeName="cx" dur="4.8s" begin="1.6s" values="540;520;560;540" repeatCount="indefinite" />
-        <animate attributeName="cy" dur="4.8s" begin="1.6s" values="150;130;170;150" repeatCount="indefinite" />
-      </circle>
     </g>
-
-    <!-- Nodo G -->
     <g>
       <circle id="g" cx="700" cy="100" r="6" fill="url(#nodeGrad)"/>
       <animate xlink:href="#g" attributeName="cx" dur="5.1s" begin="0.4s" values="700;720;680;700" repeatCount="indefinite" />
       <animate xlink:href="#g" attributeName="cy" dur="5.1s" begin="0.4s" values="100;120;80;100" repeatCount="indefinite" />
-      <circle cx="700" cy="100" r="14" fill="#60a5fa" fill-opacity="0.06">
-        <animate attributeName="r" dur="5.1s" begin="0.4s" values="10;16;10;14" repeatCount="indefinite"/>
-        <animate attributeName="cx" dur="5.1s" begin="0.4s" values="700;720;680;700" repeatCount="indefinite" />
-        <animate attributeName="cy" dur="5.1s" begin="0.4s" values="100;120;80;100" repeatCount="indefinite" />
-      </circle>
     </g>
-
-    <!-- Nodo H -->
     <g>
       <circle id="h" cx="980" cy="80" r="6" fill="url(#nodeGrad)"/>
       <animate xlink:href="#h" attributeName="cx" dur="6s" begin="0.2s" values="980;960;1000;980" repeatCount="indefinite" />
       <animate xlink:href="#h" attributeName="cy" dur="6s" begin="0.2s" values="80;60;100;80" repeatCount="indefinite" />
-      <circle cx="980" cy="80" r="14" fill="#7c3aed" fill-opacity="0.06">
-        <animate attributeName="r" dur="6s" begin="0.2s" values="12;20;12;14" repeatCount="indefinite"/>
-        <animate attributeName="cx" dur="6s" begin="0.2s" values="980;960;1000;980" repeatCount="indefinite" />
-        <animate attributeName="cy" dur="6s" begin="0.2s" values="80;60;100;80" repeatCount="indefinite" />
-      </circle>
     </g>
-
-    <!-- Nodo I -->
     <g>
       <circle id="i" cx="1050" cy="210" r="6" fill="url(#nodeGrad)"/>
       <animate xlink:href="#i" attributeName="cx" dur="4.4s" begin="0.8s" values="1050;1070;1030;1050" repeatCount="indefinite" />
       <animate xlink:href="#i" attributeName="cy" dur="4.4s" begin="0.8s" values="210;230;190;210" repeatCount="indefinite" />
-      <circle cx="1050" cy="210" r="14" fill="#60a5fa" fill-opacity="0.06">
-        <animate attributeName="r" dur="4.4s" begin="0.8s" values="9;15;9;14" repeatCount="indefinite"/>
-        <animate attributeName="cx" dur="4.4s" begin="0.8s" values="1050;1070;1030;1050" repeatCount="indefinite" />
-        <animate attributeName="cy" dur="4.4s" begin="0.8s" values="210;230;190;210" repeatCount="indefinite" />
-      </circle>
     </g>
-  </g>
-
-  <!-- Pie/leyenda -->
-  <g fill="#cfe8ff" font-family="Segoe UI, Roboto, Arial" font-size="14" text-anchor="middle">
-    <text x="600" y="285" fill-opacity="0.6">Grafo conexo — animado (SVG/SMIL)</text>
   </g>
 </svg>
