@@ -1,18 +1,10 @@
-# Hola, Octa 👋
-
-### 🎓 Estudiante de Ciencias de la Computación | 💻 Entusiasta del Hardware y Desarrollo de Software | 👨‍🏫 Tutor de Programación
-
-Soy un estudiante avanzado (4º año) de la **Licenciatura en Ciencias de la Computación** en la **Universidad Nacional de San Juan (FCEFN)**. Me apasiona entender cómo funcionan las cosas desde el bajo nivel hasta el desarrollo web, combinando la lógica de la programación con el soporte técnico de hardware.
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Luis%20Octavio%20Garello%20Perez&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Ciencias%20de%20la%20Computación%20@%20UNSJ&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Estudiante+de+CS+en+la+UNSJ;Profesor+de+Algoritmos+y+POO;Fanático+de+Hardware+y+Linux;Dev+Backend+en+formación" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Estudiante+de+Ciencias+de+la+Computacion;Dev+Backend+en+formación" alt="Typing SVG" />
   </a>
 </div>
 
