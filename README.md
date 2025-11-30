@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Estudiante+de+Ciencias+de+la+Computacion;Dev+Backend+en+formación" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Ciencias+de+la+Computacion;Dev+Backend+en+formación" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,10 +12,10 @@
 
 ### 🚀 Sobre mí
 
-👋 **¡Hola!** Soy un estudiante de 4º año apasionado por la tecnología. Mi mundo se divide entre el código de bajo nivel y la resolución de problemas reales.
+👋 **¡Hola!** Soy un estudiante de 4º año apasionado por la tecnología. Mi mundo se divide entre el código y la resolución de problemas reales.
 
 - 🔭 **Actualmente:** Avanzando en la Licenciatura y enseñando a futuros programadores.
-- 🛠️ **Habilidades:** Desde soldar un componente hasta desplegar una API.
+- 🛠️ **Habilidades:** Desde diseñar hasta desplegar una API.
 - ⚡ **Dato curioso:** Puedo explicarte punteros en C++ y luego reparar tu impresora.
 
 ---
