@@ -12,9 +12,6 @@
   <a href="https://portfolio-octavio.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO%20WEB-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:octieze20@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACTAR-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 <br />
@@ -82,6 +79,9 @@ Actualmente me desempeño como **Tech Lead** desarrollando la plataforma de *Jua
   </a>
   <a href="https://instagram.com/octa_garello">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=octieze20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/CONTACTAR-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
