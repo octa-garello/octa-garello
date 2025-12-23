@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/PORTFOLIO%20WEB%20(Pronto)-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://portfolio-octavio.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO%20WEB-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:octieze20@gmail.com">
     <img src="https://img.shields.io/badge/CONTACTAR-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
