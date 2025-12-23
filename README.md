@@ -1,52 +1,86 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Octavio%20Garello&fontSize=50&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Octavio%20Garello&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Ciencias+de+la+Computacion;Dev+Backend+en+formación" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=334155&center=true&vCenter=true&width=600&lines=Lic.+Ciencias+de+la+Computación+(UNSJ);Tech+Lead+%40+JuanpisBurgers;Docente+de+Algoritmia+y+Programación;Arquitectura+de+Software+%26+Backend" alt="Typing SVG" />
   </a>
 </div>
 
----
-
-### 🚀 Sobre mí
-
-👋 **¡Hola!** Soy un estudiante de 4º año apasionado por la tecnología. Mi mundo se divide entre el código y la resolución de problemas reales.
-
-- 🔭 **Actualmente:** Avanzando en la Licenciatura y enseñando a futuros programadores.
-- 🛠️ **Habilidades:** Desde diseñar hasta desplegar una API.
-- ⚡ **Dato curioso:** Puedo explicarte punteros en C++ y luego reparar tu impresora.
-
----
-
-### 💻 Stack Tecnológico
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/typescript-lightblue?style=for-the-badge&logo=typescript&logoColor=black"/>
-  
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  
-  <br/>
-  <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  
-  <br/>
-  <img src="https://img.shields.io/badge/prisma-green?style=for-the-badge&logo=prisma&logoColor=black"/>
+  <a href="https://portfolio-octavio.vercel.app">
+    <img src="https://img.shields.io/badge/VISITAR%20PORTFOLIO%20WEB-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:octieze20@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACTAR-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
-### 📫 Contacto
-
-- **Email:** [octieze20@gmail.com](mailto:octieze20@gmail.com)
-- **Ubicación:** San Juan, Argentina 🇦🇷
+<br />
 
 ---
-⭐️ *Gracias por visitar mi perfil. Si te interesa mi trabajo o necesitas un profesor de programación, ¡contáctame!*
+
+### 👨‍💻 Sobre mí
+
+Soy **Estudiante Avanzado de la Licenciatura en Ciencias de la Computación** en la *Universidad Nacional de San Juan (UNSJ)*. Mi enfoque combina la rigurosidad académica de las ciencias exactas con el desarrollo práctico de soluciones de software escalables.
+
+Actualmente me desempeño como **Tech Lead** desarrollando la plataforma de *JuanpisBurgers* y ejerzo como **Docente Particular**, formando a alumnos de primeros años en algoritmos y paradigmas de programación.
+
+- 🔭 **Actualmente trabajando en:** Arquitectura Full Stack para E-commerce gastronómico.
+- 🎓 **Formación:** Algoritmia, Estructuras de Datos, Cálculo y Teoría de la Computación.
+- 💼 **Experiencia:** Tech Lead, Freelance Developer & Docencia Universitaria.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<div align="center">
+
+**Lenguajes Fundamentales**
+<br />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<br />
+
+**Frameworks & Frontend**
+<br />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.dot.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<br />
+
+**Backend & Datos**
+<br />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=octa-garello&show_icons=true&theme=graywhite&hide_border=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octa-garello&layout=compact&theme=graywhite&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+<br />
+
+<div align="center"> 
+  <p style="font-size: 12px; color: #555;">📍 San Juan, Argentina • © 2025 Octavio Garello</p>
+</div>
