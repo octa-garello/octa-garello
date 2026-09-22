@@ -28,7 +28,7 @@
 
 Soy **Estudiante Avanzado de la Licenciatura en Ciencias de la Computación** en la *Universidad Nacional de San Juan (UNSJ)*. Mi enfoque combina la rigurosidad científica y teórica de las ciencias exactas (algoritmia, estructuras de datos y optimización) con el desarrollo práctico de soluciones de software escalables y de alto impacto.
 
-- 🔭 **Enfoque actual:** Arquitectura Full Stack, plataformas E-commerce de alto rendimiento y diseño de sistemas reactivos.
+- 🔭 **Enfoque actual:** Arquitectura Full Stack, sistemas de gestión agrícola avanzada (TATAV), plataformas E-commerce y aplicaciones de alto rendimiento.
 - 🎓 **Formación Académica:** Algoritmia, Complejidad Computacional, Estructuras de Datos y Teoría de la Computación.
 - ⚡ **Dato curioso:** Puedo explicarte punteros en C++ y luego reparar tu impresora.
 
@@ -38,6 +38,7 @@ Soy **Estudiante Avanzado de la Licenciatura en Ciencias de la Computación** en
 
 | Proyecto | Descripción | Stack Tecnológico | Enlace |
 | :--- | :--- | :--- | :---: |
+| **TATAV** | Plataforma de gestión integral para fincas agrícolas (Web, Desktop & PWA): control de lotes con mapas interactivos, temporadas, cuadrillas y analítica | `React 19` `Electron` `Prisma` `Tailwind` `Leaflet` `PWA` | [Visitar](https://sistema-finca.vercel.app/) |
 | **Juanpis Burgers** | Plataforma gastronómica de pedidos online con checkout interactivo integrado a WhatsApp | `React` `JavaScript` `Node.js` `Tailwind` | [Visitar](https://juanpis-burgers.vercel.app/) |
 | **Kuhn Pastas Store** | E-commerce y catálogo dinámico para fábrica de pastas artesanales | `Next.js` `TypeScript` `Tailwind CSS` | [Visitar](https://kuhnpastas-store.vercel.app/) |
 | **Cultivo Urbano** | Plataforma de comercio electrónico y catálogo de productos especializados | `Next.js` `TypeScript` `Tailwind CSS` | [Visitar](https://cultivourbano-store.vercel.app/) |
