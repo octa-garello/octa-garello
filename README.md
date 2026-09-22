@@ -28,7 +28,7 @@
 
 Soy **Estudiante Avanzado de la Licenciatura en Ciencias de la Computación** en la *Universidad Nacional de San Juan (UNSJ)*. Mi enfoque combina la rigurosidad científica y teórica de las ciencias exactas (algoritmia, estructuras de datos y optimización) con el desarrollo práctico de soluciones de software escalables y de alto impacto.
 
-- 🔭 **Enfoque actual:** Arquitectura Full Stack, sistemas de gestión agrícola avanzada (TATAV), plataformas E-commerce y aplicaciones de alto rendimiento.
+- 🔭 **Enfoque actual:** Arquitectura Full Stack, desarrollo asistido por IA (Claude Code, Ollama, DeepSeek), plataformas E-commerce y sistemas de gestión agrícola (TATAV).
 - 🎓 **Formación Académica:** Algoritmia, Complejidad Computacional, Estructuras de Datos y Teoría de la Computación.
 - ⚡ **Dato curioso:** Puedo explicarte punteros en C++ y luego reparar tu impresora.
 
@@ -94,11 +94,21 @@ Soy **Estudiante Avanzado de la Licenciatura en Ciencias de la Computación** en
 
 <br />
 
-**Inteligencia Artificial & Optimización Computacional**
+**Inteligencia Artificial, LLMs & Agentes Autónomos**
 <br />
+<img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-1E40AF?style=for-the-badge&logo=deepseek&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama_(Local_LLMs)-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LM_Studio-0F172A?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Assisted_Dev-000000?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br />
+
+**Algoritmia Avanzada & Optimización Computacional**
+<br />
 <img src="https://img.shields.io/badge/Algoritmos_Gen%C3%A9ticos-107C41?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metaheur%C3%ADsticas_(ACO%20%2F%20TS)-E34F26?style=for-the-badge&logo=affinitydesigner&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sistemas_de_Reglas_(CLIPS)-777BB4?style=for-the-badge&logo=prolog&logoColor=white"/>
