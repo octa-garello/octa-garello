@@ -28,8 +28,6 @@
 
 Soy **Estudiante Avanzado de la Licenciatura en Ciencias de la Computación** en la *Universidad Nacional de San Juan (UNSJ)*. Mi enfoque combina la rigurosidad científica y teórica de las ciencias exactas (algoritmia, estructuras de datos y optimización) con el desarrollo práctico de soluciones de software escalables y de alto impacto.
 
-Actualmente me desempeño como **Tech Lead** en la plataforma gastronómica de *JuanpisBurgers*, desarrollo proyectos de software en *KodLoop*, y ejerzo como **Docente Particular**, formando a estudiantes en programación, algoritmos y paradigmas de computación.
-
 - 🔭 **Enfoque actual:** Arquitectura Full Stack, plataformas E-commerce de alto rendimiento y diseño de sistemas reactivos.
 - 🎓 **Formación Académica:** Algoritmia, Complejidad Computacional, Estructuras de Datos y Teoría de la Computación.
 - ⚡ **Dato curioso:** Puedo explicarte punteros en C++ y luego reparar tu impresora.
